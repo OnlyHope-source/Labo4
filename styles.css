@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap);
+
+body {
+    
+    background-image: url("cinema.jpg");
+    background-size: cover;
+    color: white;
+    font-family: "Comic Neue", sans-serif;
+
+}
+ .réalisateurs {
+ color: yellowgreen; 
+ font-size: 25px;
+list-style: none;
+}
+.Films {
+
+    list-style: upper-latin;
+    color: white;
+}
+.Acteurs {
+list-style: disc;
+
+}
+
